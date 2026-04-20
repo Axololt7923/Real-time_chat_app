@@ -1,3 +1,6 @@
+<img width="1905" height="980" alt="demo" src="https://github.com/user-attachments/assets/9e049b45-fdf0-4d9d-ab5c-18ca4456a616" />
+
+
 # Real-time Chat Application
 
 A modern, responsive real-time chat application built with Spring Boot, WebSockets, and a clean UI Kit.
@@ -69,3 +72,5 @@ A modern, responsive real-time chat application built with Spring Boot, WebSocke
 This project is open-source and available under the MIT License.
 
 ## Demo
+<img width="1905" height="980" alt="demo" src="https://github.com/user-attachments/assets/d949de8b-0f69-4711-b246-89805f6175e2" />
+
