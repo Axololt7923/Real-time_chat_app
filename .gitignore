@@ -36,4 +36,4 @@ build/
 .env/
 .env
 
-/assets/*.mp4
+assets/*.mp4
